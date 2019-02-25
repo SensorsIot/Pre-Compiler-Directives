@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For DebugUtils
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DebugUtils	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+DEBUGLEVEL 	KEYWORD2
+DEBUGPRINT0 	KEYWORD2
+DEBUGPRINT1 	KEYWORD2
+DEBUGPRINT2 	KEYWORD2
+DEBUGPRINT3 	KEYWORD2
+DEBUGPRINTLN0 	KEYWORD2
+DEBUGPRINTLN1 	KEYWORD2
+DEBUGPRINTLN2 	KEYWORD2
+DEBUGPRINTLN3	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
