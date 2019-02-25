@@ -3,9 +3,11 @@
 #if DEBUGLEVEL >= 0
 #define DEBUGPRINT0(x) Serial.print(x)
 #define DEBUGPRINTLN0(x) Serial.println(x)
+#define DEBUGSERIALBEGIN(x) Serial.begin(x)
 #else
 #define DEBUGPRINT0(x)
 #define DEBUGPRINTLN0(x)
+#define DEBUGSERIALBEGIN(x)
 #endif
 
 #if DEBUGLEVEL >= 1
